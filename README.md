@@ -1,6 +1,6 @@
 # blogviewer
 
-A new Flutter project.
+This app displays various blogs by fecting it using api request.
 
 ## Getting Started
 
